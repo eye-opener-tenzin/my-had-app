@@ -1,0 +1,16 @@
+import React from "react";
+
+export const Home = () => (
+    
+            <div>Healing Process: What Do I Do When Someone Dies?
+            When someone close to you dies, your world can feel suddenly different and unknown: think of grief as your adjustment to life after loss. While certain feelings can be expected, everyone’s journey will be unique. Some people find solace in speaking to friends, while others don’t want to talk to
+             anyone. Some turn to group therapy, 
+            while others prefer one-on-one sessions with a counselor.The emotions you experience are normal, even if they aren't what you expected. Allow yourself to feel each as it arises and understand that it will take some time to adjust to your new circumstances. If you find this process difficult to 
+            navigate alone, don't hesitate to contact your doctor or a grief counselor to help guide you on your personal path toward healing. We have prepared this section to guide you on your own journey, in the hopes that it will help you determine what works and feels best for you.
+            1. What is Grief?Many of us have heard of the five stages of grief: Denial, Anger, Bargaining, Depression, and Acceptance. This model was conceptualized by grief pioneer Elisabeth Kubler-Ross in her landmark study, On Death and Dying. Though influential, today the five stages model is thought to 
+            be fairly limiting—most experts agree that the reality of the grief experience is much more fluid and varies greatly from person to person. At first, you may feel as if in a fog of denial, with a sense of unreality permeating everyday tasks. You may find simple rote tasks nearly impossible to do. On another day you may feel depressed and the next angry toward friends, family, or the world. For some, the experience will be intense, with a quick succession of high and low emotions. The experience of an emotional state can last for just a few hours, or it can last for weeks or years.
+            What’s important to remember is that whatever emotion you are feeling is a part of your unique grieving process. There is no right or wrong way to feel.
+            Your unique experience of grief may be based on factors like your relationship to the person who has died, the circumstances of his or her death, and your own personality. For example, it is not uncommon to experience a long denial phase after the sudden and unexpected death of a loved one. Author Joan Didion coined the term “the year of magical thinking” to describe the year following her husband’s sudden death from a heart attack. She writes about a state of shock and denial, in which one goes through the motions of dealing with the death but still harbors a belief that life will go back to the way it was before he died.
+            Acceptance is not necessarily a permanent state, nor does it mark a return to happiness or your pre-loss state of mind. The death of your loved one has changed the circumstances of your world, and acceptance marks your understanding of this, as well as your willingness to move forward in life without them. Think of the loss as a tear in the fabric of your life: the pain will ease over time, but in some ways the loss may always be with you.</div>
+        
+)
